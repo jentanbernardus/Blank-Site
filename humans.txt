@@ -1,0 +1,9 @@
+/* TEAM */
+
+  Developer: Matt Vickers
+  Contact: matt [at] facetdev.com
+  Twitter: @envex
+  From: Winnipeg, Manitoba, Canada
+
+/* the humans responsible & colophon */
+/* humanstxt.org */
