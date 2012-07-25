@@ -1,1 +1,1 @@
-// @codekit-import 'main.js';
+// @codekit-append 'main.js';
